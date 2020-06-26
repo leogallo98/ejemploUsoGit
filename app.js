@@ -1,0 +1,1 @@
+console.log('probando la consola javascript');
